@@ -61,3 +61,35 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" radio="true",Radio Disney
 https://24253.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
 
+#EXTINF:0 tvg-id="TelefeHD.ar" group-title="Channels",Telefe HD
+http://45.179.194.114:48000/play/a0v6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telefuturo
+http://45.179.194.114:48000/play/a0ox/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleislas
+http://45.179.194.114:48000/play/a0pk/index.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",Telemundo
+http://45.179.194.114:48000/play/a0og/index.m3u8
+#EXTINF:0 tvg-id="History.it" group-title="Channels",The History Channel HD
+http://45.179.194.114:48000/play/a0uo/index.m3u8
+#EXTINF:0 tvg-id="Trece.es" group-title="Channels",Trece
+http://45.179.194.114:48000/play/a0n4/index.m3u8
+#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Channels",TruTV HD
+http://45.179.194.114:48000/play/a0v9/index.m3u8
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",TyC
+http://45.179.194.114:48000/play/a0o7/index.m3u8
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",TyC Sports HD
+http://45.179.194.114:48000/play/a0ty/index.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal
+http://45.179.194.114:48000/play/a0om/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universal Comedy SD
+http://45.179.194.114:48000/play/a0nv/index.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal HD
+http://45.179.194.114:48000/play/a0uq/index.m3u8
+#EXTINF:0 tvg-id="Willax.pe" group-title="Channels",WILLAX
+http://45.179.194.114:48000/play/a0mw/index.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner
+http://45.179.194.114:48000/play/a0o1/index.m3u8
+#EXTINF:0 tvg-id="ZonaLatina.cl" group-title="Channels",Zona Latina
+http://45.179.194.114:48000/play/a0op/index.m3u8
+#EXTINF:0 tvg-id="ElTreceHD.ar" group-title="Channels",el trece HD
+http://45.179.194.114:48000/play/a0v4/index.m3u8
