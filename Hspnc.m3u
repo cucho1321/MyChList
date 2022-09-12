@@ -50,5 +50,6 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Telemax_Argentina_(2018).png",TeleMax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/static/custom/logo-grande.png",5TV (Tigre)
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
