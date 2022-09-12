@@ -39,6 +39,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONALES" tvg-id="FMTV1.ec" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Informaci%C3%B3n_Period%C3%ADstica#/media/Archivo:Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg",IP TV
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="VARIEDADES" tvg-id="TieraMia.ar" tvg-name="TIERRA MIA TV" tvg-country="ARGENTINA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/XVM8T95/unnamed.jpg",TIERRA MIA TV
